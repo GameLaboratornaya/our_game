@@ -1,0 +1,10 @@
+C:\Users\dwoic\Desktop\Game\Game_space_arcanoid\Game_space_arcanoid\bin\Debug\Game_space_arcanoid.exe.config
+C:\Users\dwoic\Desktop\Game\Game_space_arcanoid\Game_space_arcanoid\bin\Debug\Game_space_arcanoid.exe
+C:\Users\dwoic\Desktop\Game\Game_space_arcanoid\Game_space_arcanoid\bin\Debug\Game_space_arcanoid.pdb
+C:\Users\dwoic\Desktop\Game\Game_space_arcanoid\Game_space_arcanoid\obj\Debug\Game_space_arcanoid.csprojAssemblyReference.cache
+C:\Users\dwoic\Desktop\Game\Game_space_arcanoid\Game_space_arcanoid\obj\Debug\Game_space_arcanoid.Form1.resources
+C:\Users\dwoic\Desktop\Game\Game_space_arcanoid\Game_space_arcanoid\obj\Debug\Game_space_arcanoid.Properties.Resources.resources
+C:\Users\dwoic\Desktop\Game\Game_space_arcanoid\Game_space_arcanoid\obj\Debug\Game_space_arcanoid.csproj.GenerateResource.cache
+C:\Users\dwoic\Desktop\Game\Game_space_arcanoid\Game_space_arcanoid\obj\Debug\Game_space_arcanoid.csproj.CoreCompileInputs.cache
+C:\Users\dwoic\Desktop\Game\Game_space_arcanoid\Game_space_arcanoid\obj\Debug\Game_space_arcanoid.exe
+C:\Users\dwoic\Desktop\Game\Game_space_arcanoid\Game_space_arcanoid\obj\Debug\Game_space_arcanoid.pdb
